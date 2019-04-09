@@ -1,3 +1,4 @@
 django==2.1.7
 gunicorn==19.9.0
 whitenoise==34.1.2
+djangorestframework==19.0.1
