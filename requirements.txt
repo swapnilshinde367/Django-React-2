@@ -4,3 +4,4 @@ whitenoise
 djangorestframework
 django-cors-headers
 bs4
+requests
