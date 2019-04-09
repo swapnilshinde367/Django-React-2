@@ -2,3 +2,4 @@ django==2.1.7
 gunicorn==19.9.0
 whitenoise
 djangorestframework
+django-cors-headers
